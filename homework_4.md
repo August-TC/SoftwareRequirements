@@ -1,5 +1,5 @@
-# 项目视图与范围文档
 
+# 项目视图与范围文档
 ## 1 业务需求
 ### 1.1 背景
 最早的基于网络门户的交互问答服务的是美国的 LookSmart(www.looksmart.com)于1999年推出的 LookSmart Live !随后, 各种专家服 务如 Ask Jeeves 、Yahoo !Experts and About .com 相继推出。这些服务以 专家站点、知识网络、信息交换或询问服务而闻名, 其中有些服务是免费, 有 些需要支付一定费用。
